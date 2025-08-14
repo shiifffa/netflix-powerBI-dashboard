@@ -28,12 +28,13 @@ It was:
 Due to licensing, the dataset itself is *not included* in this repository.
 
 ## 📷 Dashboard Preview
-![Netflix Dashboard Overview](netflix_dashboard_overview_cropped.jpg)
-![Netflix Dashboard Detail](netflix_dashboard_detail_cropped.jpg)
+![Netflix Dashboard Overview](netflix_dashboard_overview.jpg)
+![Netflix Dashboard Detail](netflix_dashboard_detailed.jpg)
 
 ## 🚀 How to Use
 - Download the .pbix file and open it in *Power BI Desktop*.
 - Explore the interactive dashboard to view trends and filter results by different parameters.
 
 ## 📂 Repository Structure
+
 
