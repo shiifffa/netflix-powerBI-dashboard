@@ -28,7 +28,7 @@ It was:
 Due to licensing, the dataset itself is *not included* in this repository.
 
 ## 📷 Dashboard Preview
-![Netflix Dashboard Overview](netflix_dashboard_overview.jpg)
+![Netflix Dashboard Overview](netflix _dashboard_overview.jpg)
 ![Netflix Dashboard Detail](netflix_dashboard_detailed.jpg)
 
 ## 🚀 How to Use
@@ -36,6 +36,7 @@ Due to licensing, the dataset itself is *not included* in this repository.
 - Explore the interactive dashboard to view trends and filter results by different parameters.
 
 ## 📂 Repository Structure
+
 
 
 
